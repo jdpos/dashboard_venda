@@ -14,7 +14,8 @@ jsonschema
 jsonschema-specifications 
 MarkupSafe                
 narwhals                  
-numpy                     
+numpy
+openpyxl                     
 packaging                 
 pandas                    
 pillow
