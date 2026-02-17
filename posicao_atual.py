@@ -6,6 +6,8 @@ from datetime import datetime
 
 format_infinity = lambda s: "0" if np.isinf(s) else '{:,.2f}%'.format(s)
 
+st.write(st.__version__)
+
 def grafico_carteira():
     
     #st.write(table)
